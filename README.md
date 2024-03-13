@@ -8,3 +8,5 @@
 #### Đăng ký dịch vụ cho khách hàng
 #### Hủy dịch vụ khách hàng
 #### Thống kê báo cáo chăm sóc khách hàng
+
+# CƠ SỞ DỮ LIỆU: SQL server - chạy file dump
